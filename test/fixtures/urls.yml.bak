@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+d1:
+  name: "1 / 3　アクセス"
+  url: http://localhost:3000/urls/access
+  wait: 0
+
+d2:
+  name: "2 / 3　アクセス"
+  url: http://localhost:3000/urls/access
+  wait: 3
+
+d3:
+  name: "3 / 3　アクセス"
+  url: http://localhost:3000/urls/access
+  wait: 1
